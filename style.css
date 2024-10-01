@@ -1,9 +1,19 @@
 body{
-    background-color: #e58ce5;
+    background-color: #e49fe4;
 
 }
 
 footer{
     background-color: black;
     color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 0.1rem;
 }
